@@ -21,3 +21,4 @@
 - ![alt text](./images/Screenshot%202024-03-13%20at%202.44.21%20PM.png "mock up")
   
 ## Deployed Link
+https://hasanike.github.io/React-Portfolio/
